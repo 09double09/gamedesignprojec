@@ -12,4 +12,3 @@ fetch("https://restcountries.com/v3.1/all")
     console.log(data);
   });
 
-console.log("你好");
