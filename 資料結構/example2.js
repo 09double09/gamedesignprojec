@@ -24,4 +24,4 @@ let time3 = window.performance.now();
 fun2(10000000);
 let time4 = window.performance.now();
 let timeDiff2 = (time4 - time3) / 1000;
-console.log(`It takes ${timeDiff2} seconds to run fun2.`);
+
